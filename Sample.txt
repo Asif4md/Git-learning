@@ -1,1 +1,7 @@
+Troubleshoot Performance Issues Quickly and Minimize Downtime
+Isolate bottlenecks and troubleshoot performance problems with distributed tracing across any infrastructure component
+Seamlessly correlate metrics, logs, traces, and network data to diagnose and resolve issues quickly
+Analyze the health of individual containers across pods, nodes, namespaces, and cloud providers
+Test hypotheses in seconds by overlaying Docker and container orchestration events onto time-synchronized graphs
+infrastructure/section3-w-mobile.png
 

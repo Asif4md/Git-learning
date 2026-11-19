@@ -1,0 +1,24 @@
+[root@ip-172-31-3-135 Git-learning]# git log --oneline
+eae513e (HEAD -> main) added the file f2
+362eea8 (origin/main, origin/HEAD) Delete Linux.txt
+0dbd238 Create Linux.txt
+25d11b5 Merge pull request #2 from Asif4md/main
+83563a6  updated the file automation file in automation.sh
+4e53fcf Merge pull request #1 from Asif4md/main
+81f2d22  added the file sample.txt
+d83a7f9 Add Kubernetes management details to Automation.sh
+0748247 Create Sample.txt
+19f278c Initial commit
+[root@ip-172-31-3-135 Git-learning]# git push origin main
+Username for 'https://github.com': Asif Mohammad
+Password for 'https://Asif%20Mohammad@github.com': 
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 267 bytes | 267.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/Asif4md/Git-learning.git
+   362eea8..eae513e  main -> main
+[root@ip-172-31-3-135 Git-learning]# 
